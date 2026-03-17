@@ -1,0 +1,9 @@
+# Window
+background-blur = true
+background-opacity = 0.8
+
+# Colors
+theme = Catppuccin Frappe
+
+# Fonts
+font-family = MesloLGS NF

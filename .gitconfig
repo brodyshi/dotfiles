@@ -1,0 +1,5 @@
+[user]
+  name = Brody Shi
+  email = brodyshi@gmail.com
+[core]
+  autocrlf = false
