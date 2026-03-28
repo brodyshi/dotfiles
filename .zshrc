@@ -82,6 +82,7 @@ plugins=(
   git
   npm
   tmux
+  volta
   z
   zsh-autosuggestions
   zsh-syntax-highlighting
